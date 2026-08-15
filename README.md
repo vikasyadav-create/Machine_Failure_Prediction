@@ -1,3 +1,3 @@
-Built a CNN-based ASL letter classifier using TensorFlow/Keras with a custom webcam dataset.
-Preprocessed and split 48×48 sign images into training/validation sets for model training.
-Developed a real-time OpenCV system for webcam-based ASL letter recognition using the trained CNN. 
+Built a multiclass predictive-maintenance model to identify different machine failure types from sensor data.
+Implemented Random Forest and XGBoost with feature engineering and oversampling for class imbalance. 
+Achieved 98.85% accuracy and 98.56% weighted F1-score across multiple machine failure classes.
